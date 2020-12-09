@@ -1,10 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Learning Cybersecurity
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+This page will show my progress as I learn cybersecurity. My goal is to be on a Red or Blue team. I am starting by studying for Security+ and completing my BS in Cybersecurity at Norwich. Afterwards I will be working on the CySA+ and build a homelab. I will also go through CTFS such as Overthewire and HTB. I will need to focus on learning programming skills such as Python before moving on to Pentest+ and eventually OSCP. 

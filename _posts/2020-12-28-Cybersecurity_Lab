@@ -1,4 +1,1 @@
 First, I will need to create a lab in order to start testing network and operating systemm security. To do this, I have instaleld Windows 2012 into Virtualbox and created a fake company called Oscorp which will have 50 employees with an Active Directory to manage users and resources.  I have also installed Pfsense to act as a firewall. Pfsense will provide DHCP, DNS, Snort, Suricata IDS, Squid proxy, NTOPNG and will forward firewall logs to grafana. 
-
-Once Pfsense was installed I configured a unique IP 192.168.38.1 and set the Pfsense to enable DHCP on this LAN. I set the start address to 192.168.38.10 and 192.168.38.200. This will reserve 1-10 for networking hardware and the 200+ range for servers.
-

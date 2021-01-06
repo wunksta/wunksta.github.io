@@ -11,5 +11,6 @@ The VSFTPD website was compromised back in 2011 and the attacker uploaded a mali
             {
               vsf_sysutil_extra();
              }
+             
 This allows an attacker to send certain bytes into the network buffer and if they match 0x3a) and 0x29, then the vsf_sysutil_extra function is triggered. 
 
